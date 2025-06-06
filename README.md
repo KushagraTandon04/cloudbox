@@ -1,5 +1,5 @@
 # CloudBox
- simple cloud file storage web app using Firebase.
+ Simple cloud file storage web app using Firebase.
 
 ## Features
 
